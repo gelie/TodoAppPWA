@@ -2,7 +2,7 @@
     "name":"Todo List Web App",
     "short_name":"Todo App",
     "description":"Web app for creating Todo List of tasks",
-    "start_url":"http://localhost:3000/index.html",
+    "start_url":"https://gelie.github.io/TodoAppPWA/",
     "theme_color":"#317EFB",
     "background_color":"#317EFB",
     "display":"minimal-ui",
